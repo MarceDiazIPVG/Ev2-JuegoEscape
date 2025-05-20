@@ -51,5 +51,9 @@
         "temp/": true,
         "Temp/": true
     },
+<<<<<<< HEAD
     "dotnet.defaultSolution": "Ev2-JuegoEscape-main.sln"
+=======
+    "dotnet.defaultSolution": "Ev2_VideoJuegos.sln"
+>>>>>>> 511f4dabab224b5c8f8807aae10a3e01c0b63ff1
 }

@@ -5,7 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemigo
+<<<<<<< HEAD
   - Meta
+=======
+>>>>>>> 511f4dabab224b5c8f8807aae10a3e01c0b63ff1
   layers:
   - Default
   - TransparentFX
