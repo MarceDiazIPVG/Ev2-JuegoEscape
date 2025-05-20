@@ -7,8 +7,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
@@ -16,7 +14,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
->>>>>>> 511f4dabab224b5c8f8807aae10a3e01c0b63ff1
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
@@ -24,8 +21,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.feature.development": {
       "version": "1.0.1",
       "depth": 0,
@@ -40,7 +35,6 @@
         "com.unity.testtools.codecoverage": "1.2.6"
       }
     },
->>>>>>> 511f4dabab224b5c8f8807aae10a3e01c0b63ff1
     "com.unity.ide.rider": {
       "version": "3.0.31",
       "depth": 0,
